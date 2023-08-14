@@ -1,6 +1,10 @@
-# Vue 3 + Vite
+# Vue Carousel & Pi-Chart using vue composer life-cycle hook
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This is a Carousel and Pi-Chart. It made by using vue life-cycle hook ref, ref, onMounted, onBeforeUnmount and nextTick
+
+## Live link(url)
+- [Website](banjir-ahammad.com/vue/carousel-pichart)
+- [github repository](https://github.com/banjirahammad/carousel-pichart.git)
 
 ## Recommended IDE Setup
 
