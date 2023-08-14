@@ -3,7 +3,7 @@
 This is a Carousel and Pi-Chart. It made by using vue life-cycle hook ref, ref, onMounted, onBeforeUnmount and nextTick
 
 ## Live link(url)
-- [Website](banjir-ahammad.com/vue/carousel-pichart)
+- [Website](https://banjir-ahammad.com/vue/carousel-pichart)
 - [github repository](https://github.com/banjirahammad/carousel-pichart.git)
 
 ## Recommended IDE Setup
